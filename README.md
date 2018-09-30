@@ -12,7 +12,7 @@ Upload your solution to a public or private git repository and share the locatio
 --- End ---
 
 Documentation:
-I took some random data which I have created an array of numbers which selects randomly.
+I took some temperature data which I have created an array of numbers which selects randomly.
 I created two components and one service to achieve the requirements.
 First component is used for Monthly wise sensor data report
 Second component is used for Minutes wise data report
