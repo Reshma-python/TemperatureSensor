@@ -1,4 +1,4 @@
-#--- Start ---
+--- Start ---
 Create a single page web application (and any additional services if required) that displays the temperature data from one sensor for an interval of one month. The page should also display the current most recent temperature reading from the sensor (note - the sensor is sending data every minute). While the page is open the new data readings should be updated in the monthly graph and the current status.
 Your solution should also include simulation of the sensor sending temperature readings.
  
